@@ -1,9 +1,13 @@
 # How we apply the code of conduct
+The code of conduct applies to everyone at the event; attendees, facilitators, sponsors and steering group members are all expected to abide by its terms. We will draw attention to the code of conduct at the beginning of the event, during the opening presentation, and we will explicitly state what the expectations are of people's behaviour, and what actions we will take if a complaint is made.
 
 ## How we respond to reports of harassment
 
-'As it happens' means as soon as we are notified of an incident, while the event is in progress, and at any time up until the end of the event.
-'After the fact' means as soon as we are notified of an incident, after the event has officially finished.
+'As it happens' means as soon as we are notified of an incident, while the event is in progress, and at any time up until the end of the event.  
+'After the fact' means as soon as we are notified of an incident, after the event has officially finished.  
+'Complainant' is the person who reports that they have been harrassed, or who we are informed has been harrassed. They do not need to be involved with the event - we expect venue staff, other users of the building and passers by to be treated with the same level of respect.  
+'Harasser' is the person we have been informed is harassing another person at the event.
+
 
 ### In person as it happens
 * check to see if the complainant needs support of any kind - this can include privacy, safe space, medical attention, police to be called etc
