@@ -17,6 +17,13 @@ The Local Gov Digital community expects that Local Gov Digital network activitie
 10. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 11. Provide an environment where people are free from discrimination or harassment.
 
+##### Specifically For Representatives From Our Commercial Friends
+Thanks for joining our community - we love having you here.
+The community is a great place to learn what your users need in relation to specific policy and business areas - please participate in related discussions alongside your competitors and other interest parties.
+Please do not use the community as a forum to market your products or approach individuals or groups for direct selling.
+Do not collect personal data from any related digital services, community meetups, etc for use in any commercial endeavour.
+While we are keen to learn from your expertise please do not use the community as part of your product support network. Please refer specific service issue related questions to your own forums or issue tracking systems.
+
 Local Gov Digital reserves the right to ask anyone in violation of these policies not to participate in Local Gov Digital network activities, events, and digital forums.
 
 #### Local Gov Digital's Anti-Harassment Policy
